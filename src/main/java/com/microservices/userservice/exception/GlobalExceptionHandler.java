@@ -1,0 +1,4 @@
+package com.microservices.userservice.exception;
+
+public class GlobalExceptionHandler {
+}
